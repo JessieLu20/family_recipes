@@ -8,3 +8,4 @@ set of recipes as given by my grandma.
 
 * pizzas
     - [base](./base.md)
+    - [base](.//base.md)
